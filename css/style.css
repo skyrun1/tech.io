@@ -1,0 +1,401 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+/* the nav sec */
+section{
+    background-color: hsl(o, 100%, 80%);
+    margin: 7px;
+}
+header{
+    display: flex;
+    background-color: #f00;
+     border-radius: 7px ;
+     border-bottom-left-radius: 0 !important;
+     border-bottom-right-radius: 0 !important;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+nav ul{
+    list-style-type: none;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 0.7rem;
+    font-weight: 550;
+    color: #fff;
+}
+header nav{
+    padding: 0.2rem;
+    margin: 0.3rem;
+
+}
+
+#but{
+    margin-left: 0.4rem;
+}
+.hand{
+    margin-left: 0.6rem
+}
+
+.toe{
+    margin-left:  62.5rem;
+}
+#leg{
+    margin-right: 10px;
+}
+
+#team{
+    background-color: #fff;
+    color: #f00 ;
+    padding: 0.2rem;
+    border-radius: 50px;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+/* end of the nav sec */
+
+/* end of body sec */
+.body{
+   display: flex ; 
+   align-items: stretch;
+   justify-content: space-between;
+}
+
+.ear{
+    background-color: #fff;
+    flex: 0.6;
+    margin-bottom: 15rem;  
+}
+
+.part{
+    background-color: rgba(199, 1, 0, 0.1);
+    padding: 0.2rem;
+    margin-top: 0.3rem !important;
+   border-radius: 4px;
+   width: 85%; 
+   margin-right: 10% !important;
+   
+
+}
+#part8{
+    display: block;
+    padding: 0.2rem;
+    margin-right: 15% !important;
+    color: rgba(199, 1, 0, 0.5);
+    
+    
+}
+.part1{
+    margin-top: 6%;
+    margin-right: 11% !important;
+}
+
+#part9 {
+    display: block;
+    padding: 0.7%;
+    margin-bottom: 12%;
+}
+
+.part2{
+flex: 3.5;
+    padding: 1rem;
+border: 1px solid rgba(199, 1, 0, 0.1);
+    border-top: 0;
+    border-bottom: 0;
+    border-right: 0;
+
+    
+    
+}
+
+.join{
+    font-size: 13px;
+    font-weight: 300;
+    
+}
+
+.intro{
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(1, 0, 0, 0.1);
+    border-radius: 4px;
+    padding: 0.5rem;
+    margin-top: 8px;
+    
+}
+.intro h4{
+    font-size: 17px;
+    font-weight: 200;
+    margin-left: 4px;
+}
+.intro p{
+    padding: 0.3rem;
+}
+
+.dut{
+    margin-top: 3px;
+   
+}
+
+#vet  {
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    padding: 4px;
+    font-size: smaller;
+    font-weight: 100;
+    color: rgba(199, 1, 0, 0.5);
+}
+
+a #vet{
+    display: inline-block;
+    margin-left: 78% !important;
+}
+
+#pdi{
+    margin-left: 68.6% !important;
+    margin: 4px;
+    font-weight: 100;
+    font-size: smaller;
+}
+
+a #pdi{
+    display: inline-block;
+    margin-left: 66.9% !important;
+    color: #000;
+}
+
+a #vom{
+    margin-left: 2% !important;
+}
+#vom{
+   background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.1) ;
+    border-radius: 5px;
+    padding: 4px;
+    font-size: smaller;
+    font-weight: 100;
+    color: rgba(199, 1, 0, 0.5);
+    margin: 4px; 
+      
+}
+#kin{
+    margin-left: 68% !important;
+    font-size: smaller;
+    font-weight: 100;
+}
+
+a #kin {
+    margin-left: 65% !important;
+    color: black;
+}
+#vex{
+     background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.1) ;
+    border-radius: 5px;
+    padding: 4px;
+    font-size: smaller;
+    font-weight: 100;
+    color: rgba(199, 1, 0, 0.5);
+    margin-left: 30px;
+    
+}
+a #vex{
+    margin-left: 5% !important;
+}
+
+.mat{
+    margin-top: 10px;
+    font-size: 13px;
+    font-weight: 300;
+}
+
+
+
+.lec3{
+    margin-top: 10px;
+    font-size: smaller;
+    font-weight: 100;
+}
+
+#pdf{
+    margin-left: 39% !important;
+    margin: 4px;
+    font-weight: 100;
+    font-size: smaller;
+}
+
+#pdo{
+    margin: 2px;
+    font-size: smaller;
+    font-weight: 100;
+}
+a #pdo{
+    margin-left: 65.7% !important;
+    color: #000;
+}
+
+a #vec{
+    margin-left: 2% !important;
+}
+#vec {
+ background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    padding: 4px;
+    font-size: smaller;
+    font-weight: 100;
+    color: rgba(199, 1, 0, 0.5); 
+    margin: 2px;
+     
+}
+.tion{
+  padding: 0.1rem !important;
+    margin-top: 5px !important;   
+}
+
+/* end of body sec */
+/* animination section */
+.dent{ 
+    color: rgba(199, 1, 0, 0.1);
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    animation: bigFloat 0.8s linear infinite;
+    
+    
+}
+
+@keyframes bigFloat{
+    0%{
+        transform: translate(0px, 0px);
+    }
+    25%{
+        transform: translate(15px, -80px);
+    }
+    50%{
+        transform: translate(0px, -900px);
+    }
+    75%{
+        transform: translate(-15px, -60px);
+    }
+    100%{
+        transform: translate(0px, 0px);
+    }
+}
+   .dent1{ 
+    color: rgba(199, 1, 0, 0.1);
+    font-size: 40px;
+    font-weight: bold;
+    position: fixed;
+    animation: rotate 0.8s linear infinite;
+    margin-left: 55% !important;
+    
+    
+}
+
+@keyframes rotate{
+    0%{
+        transform: translate(0px, 0px);
+    }
+    25%{
+        transform: translate(-80px, 15px);
+    }
+    50%{
+        transform: translate(-900px, 0px);
+    }
+    75%{
+        transform: translate(-60px, -15px);
+    }
+    100%{
+        transform: translate(0px, 0px);
+    }
+} 
+
+/* end of animination sec */
+
+/* media query section */
+
+@media screen and (max-width: 768px) {
+    .head{
+        margin: 0 !important;
+        width: 100% !important;
+        margin-left: 0 !important;
+        
+    }
+    
+
+    #but{
+        margin-right: 6px !important;
+    }
+
+
+#leg{
+    margin-left: 2.6rem !important;
+}
+
+.body{
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.ear{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100% !important;
+    margin-left: 13% !important;
+   margin-bottom: 0 !important;
+}
+
+
+#vet{
+    margin-left: 25% !important;
+}
+
+#pdi{
+    margin-left: 25% !important;
+    margin-top: 0 !important;
+}
+
+#vom{
+    margin-top: 70px !important;
+}
+
+#pdo{
+    margin-left: 20% !important;
+    
+}
+#kin{
+    margin-left: 15px !important;
+}
+ #vex{
+    margin-left: 1% !important;
+ }
+
+
+.dent{
+    margin-left: 60%;
+}
+.part{
+    width: 45%;
+    margin-left: 25% !important;
+}
+
+.part8{
+    justify-content: center !important;
+    align-items: center !important;
+    text-align:  center !important;
+}
+
+}
+
+/* media query section */
